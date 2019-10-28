@@ -3,6 +3,8 @@
 Students - click below to see the file you'll need to edit:
 - [Fall 2019](https://github.com/joewadcan/FirstPullRequest/blob/master/2019_Fall/readme.md)
 
+***>>> PLEASE MAKE SURE THAT YOUR POKEMON ANIMALS DRINK ENOUGH WATER DURING THE TOURNAMENT! <<<***
+
 **Helpful resources**
 
 These videos were included on bCourses, and are a very helpful demo on how GitHub works:
